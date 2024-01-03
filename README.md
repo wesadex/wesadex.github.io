@@ -30,3 +30,19 @@ NautilusQueenBaro:<br>
 <br><br><br><br>
 THC_GTR3Pro:<br>
 <a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?zpkd1%3A%2F%2Fwesadex.github.io%2FTHC_GTR3Pro.zpk&4&0" width="148" height="148" border="0" title="QR код"></a>
+
+<br><br><br><br>
+Breitling Full:<br>
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?zpkd1%3A%2F%2Fwesadex.github.io%2FBREITLING_FULL_AOD.zpk&4&0" width="164" height="164" border="0" title="QR код"></a>
+
+<br><br><br><br>
+Md254tzw:<br>
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?zpkd1%3A%2F%2Fwesadex.github.io%2FMd254tzw3.zpk&4&0" width="148" height="148" border="0" title="QR код"></a>
+
+<br><br><br><br>
+Porsche Pro:<br>
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?zpkd1%3A%2F%2Fwesadex.github.io%2FPorshe_pro.zpk&4&0" width="148" height="148" border="0" title="QR код"></a>
+
+<br><br><br><br>
+Sekonda:<br>
+<a href="http://qrcoder.ru" target="_blank"><img src="http://qrcoder.ru/code/?zpkd1%3A%2F%2Fwesadex.github.io%2FSEKONDA_FULL_AOD.zpk&4&0" width="164" height="164" border="0" title="QR код"></a>
